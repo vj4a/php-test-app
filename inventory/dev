@@ -1,5 +1,5 @@
 [nginx]
-10.0.2.39 ansible_ssh_user='ec2-user'
+10.0.12.216 ansible_ssh_user='ec2-user'
 
 [db]
 10.0.6.99 ansible_ssh_user='ubuntu'
