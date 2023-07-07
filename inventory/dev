@@ -5,4 +5,4 @@
 10.0.6.99 ansible_ssh_user='ubuntu'
 
 [todo]
-10.0.0.27 ansible_ssh_user='ec2-user'
+10.0.0.27 ansible_ssh_user='ubuntu'
